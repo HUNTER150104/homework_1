@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskApp1</string>
+    <string name="title_local">Local</string>
+    <string name="title_firestorm">Firestorm</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_profile_fragment">ProfileFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_txt">Сохранить</string>
+</resources>
